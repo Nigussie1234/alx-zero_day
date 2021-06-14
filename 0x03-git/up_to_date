@@ -1,1 +1,5 @@
-touch up_to_date
+touch  up_to_date
+git  add .
+git commit -m "My first commit"
+git pull
+git push
